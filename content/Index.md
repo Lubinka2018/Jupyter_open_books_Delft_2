@@ -1,5 +1,5 @@
 ---
-title: The TUD starterkit for open publishing with JupyterBook
+title: The TUD starterkit for open publishing with JupyterBook: Marta
 site:
   hide_outline: true
   hide_toc: true
