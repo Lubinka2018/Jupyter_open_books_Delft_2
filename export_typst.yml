@@ -49,7 +49,7 @@ project:
 
       show_bibliography: true                 # Render the bibliography section after the document content. Default: true.
       bibliography_title: Bibliography        # Title used for the bibliography section. Default: Bibliography.
-      bibliography_style: chicago-author-date # Bibliography style passed to Typst. Options: ieee | apa | mla | chicago-author-date | chicago-notes
+      bibliography_style: apa # Bibliography style passed to Typst. Options: ieee | apa | mla | chicago-author-date | chicago-notes
       bibliography_numbered_heading: false    # Number the bibliography as a top-level heading. Default: false.
 
 
