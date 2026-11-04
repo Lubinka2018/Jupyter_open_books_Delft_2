@@ -13,11 +13,11 @@ project:
       affiliations:
         - tud
     - id: committee-1
-      name: Prof. Dr. C. Examiner 2
+      name: Prof. Dr. C. Examiner 4
       affiliations:
         - tud
     - id: committee-2
-      name: Dr. D. Examiner 3
+      name: Dr. D. Examiner 2
       affiliations:
         - tud
 
