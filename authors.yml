@@ -9,15 +9,15 @@ project:
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: prof. dr. Robot Czesławski
       affiliations:
         - tud
     - id: committee-1
-      name: Prof. Dr. C. Examiner
+      name: Prof. Dr. C. Examiner 2
       affiliations:
         - tud
     - id: committee-2
-      name: Dr. D. Examiner
+      name: Dr. D. Examiner 3
       affiliations:
         - tud
 
